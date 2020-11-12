@@ -1,19 +1,5 @@
 ### Hi there 👋, I'm Pavel Kirilin
 
-<!--
-**s3rius/s3rius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I've got many useless and useful projects to tell about.
 Everyday I do something here or on my [private gitlab](https://gitlab.le-memese.com/s3rius/).
 
@@ -34,6 +20,27 @@ This is my favorite projects (You can click on images):
   </a>
 </div>
 
-# My social
+##  My stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rius&layout=compact&theme=blueberry)
+
+## Contact me 
+
+<a href="tg://resolve?domain=s3rius_san">
+  <img src="./images/telegram.png" width=50>
+</a>
+<a href="https://vk.com/kapitan_dominator">
+  <img src="./images/vk.png" width=50>
+</a>
+<a href="https://join.skype.com/invite/hVFQqTKjhM8V">
+  <img src="./images/skype.png" width=50>
+</a>
+<a href="mailto:win10@list.ru">
+  <img src="./images/mail.png" width=50>
+</a>
+<a href="https://gitlab.le-memese.com/s3rius">
+  <img src="./images/gitlab.png" width=50>
+</a>
+<a href="http://s3rius.ddns.net/">
+  <img src="./images/s3rius.png" width=50>
+</a>
