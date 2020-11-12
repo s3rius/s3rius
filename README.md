@@ -34,6 +34,6 @@ This is my favorite projects (You can click on images):
   </a>
 </div>
 
-# My statistics
-![github stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=gotham)
-
+# My social
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rius&layout=compact&theme=blueberry)
