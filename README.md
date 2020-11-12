@@ -20,13 +20,13 @@ This is my favorite projects (You can click on images):
   </a>
 </div>
 
-##  My stats
+###  My stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rius&layout=compact&theme=blueberry)
 
-## Contact me 
+### Contact me 
 
-<a href="tg://resolve?domain=s3rius_san">
+<a href="https://t.me/s3rius_san">
   <img src="./images/telegram.png" width=50>
 </a>
 <a href="https://vk.com/kapitan_dominator">
