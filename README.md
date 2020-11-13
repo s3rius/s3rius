@@ -1,9 +1,13 @@
-### Hi there 👋, I'm Pavel Kirilin
+<div align="center"> 
+  <h3>Hi there 👋, I'm Pavel Kirilin</h>
+</div>
 
 I've got many useless and useful projects to tell about.
-Everyday I do something here or on my [private gitlab](https://gitlab.le-memese.com/s3rius/).
+I develop my project here or on my [private gitlab](https://gitlab.le-memese.com/s3rius/).
 
-This is my favorite projects (You can click on images):
+<div align="center"> 
+  <h3>Hall of fame</h3>
+</div>
 <div align="center">
   <a href="https://github.com/s3rius/FastAPI-template">
     <img src="https://raw.githubusercontent.com/s3rius/FastAPI-template/master/images/logo.png" width=250>
@@ -20,12 +24,19 @@ This is my favorite projects (You can click on images):
   </a>
 </div>
 
-###  My stats
+
+<div align="center"> 
+  <h3>My stats</h3>
+</div>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rius&layout=compact&theme=blueberry)
 
-### Contact me 
 
+<div align="center"> 
+  <h3>Contact me</h3>
+</div>
+<div align="center">
 <a href="https://t.me/s3rius_san">
   <img src="./images/telegram.png" width=50>
 </a>
@@ -44,3 +55,4 @@ This is my favorite projects (You can click on images):
 <a href="http://s3rius.ddns.net/">
   <img src="./images/s3rius.png" width=50>
 </a>
+</div>
