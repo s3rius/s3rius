@@ -3,7 +3,7 @@
 </div>
 
 I've got many useless and useful projects to tell about.
-I develop my project here or on my [private gitlab](https://gitlab.le-memese.com/s3rius/).
+I develop my projects here or on my [private gitlab](https://gitlab.le-memese.com/s3rius/).
 Experienced with many technologies and languages such as [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/), [Haskell](https://www.haskell.org/) and more. Always want to know more and develop things to ease my and others lives.
 
 <div align="center"> 
