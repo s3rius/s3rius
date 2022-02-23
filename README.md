@@ -13,8 +13,8 @@ Experienced with many technologies and languages such as [Python](https://www.py
   <a href="https://github.com/s3rius/FastAPI-template">
     <img src="https://raw.githubusercontent.com/s3rius/FastAPI-template/master/images/logo.png" width=250>
   </a>
-  <a href="https://github.com/s3rius/alarmix">
-    <img src="https://raw.githubusercontent.com/s3rius/alarmix/master/logo.png" width=250>
+  <a href="https://github.com/s3rius/rustus">
+    <img src="https://raw.githubusercontent.com/s3rius/rustus/master/imgs/logo.svg" width=150>
   </a>
   <br/>
    <a href="https://github.com/music-bg/music_bg/">
