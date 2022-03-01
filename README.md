@@ -14,7 +14,7 @@ Experienced with many technologies and languages such as [Python](https://www.py
     <img src="https://raw.githubusercontent.com/s3rius/FastAPI-template/master/images/logo.png" width=250>
   </a>
   <a href="https://github.com/s3rius/rustus">
-    <img src="https://raw.githubusercontent.com/s3rius/rustus/master/imgs/logo.svg" width=150>
+    <img src="https://raw.githubusercontent.com/s3rius/rustus/master/imgs/logo_horizontal.svg" width=250>
   </a>
   <br/>
    <a href="https://github.com/music-bg/music_bg/">
