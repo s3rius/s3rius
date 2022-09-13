@@ -13,15 +13,15 @@ Experienced with many technologies and languages such as [Python](https://www.py
   <a href="https://github.com/s3rius/FastAPI-template">
     <img src="https://raw.githubusercontent.com/s3rius/FastAPI-template/master/images/logo.png" width=250>
   </a>
+  <a href="https://taskiq-python.github.io/">
+    <img src="https://raw.githubusercontent.com/taskiq-python/taskiq/master/imgs/logo.svg" width=250>
+  </a>
+  <br/>
   <a href="https://github.com/s3rius/rustus">
     <img src="https://raw.githubusercontent.com/s3rius/rustus/master/imgs/logo_horizontal.svg" width=250>
   </a>
-  <br/>
    <a href="https://github.com/music-bg/music_bg/">
      <img src="https://raw.githubusercontent.com/music-bg/music_bg/master/images/logo.png" width=250>
-  </a>
-  <a href="https://github.com/s3rius/dwm-autoconfig">
-    <img src="https://raw.githubusercontent.com/s3rius/dwm-autoconfig/master/images/logo.png" width=250>
   </a>
 </div>
 
