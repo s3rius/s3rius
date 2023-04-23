@@ -41,10 +41,7 @@ Experienced with many technologies and languages such as [Python](https://www.py
 <a href="https://t.me/s3rius_san">
   <img src="./images/telegram.png" width=50>
 </a>
-<a href="https://vk.com/kapitan_dominator">
-  <img src="./images/vk.png" width=50>
-</a>
-<a href="mailto:win10@list.ru">
+<a href="mailto:s3riussan@gmail.com">
   <img src="./images/mail.png" width=50>
 </a>
 </div>
