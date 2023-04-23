@@ -23,15 +23,12 @@ Experienced with many technologies and languages such as [Python](https://www.py
    <a href="https://github.com/music-bg/music_bg/">
      <img src="https://raw.githubusercontent.com/music-bg/music_bg/master/images/logo.png" width=250>
   </a>
+  
 </div>
 
-
-<div align="center"> 
-  <h3>My stats</h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry" />
 </div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s3rius&show_icons=true&theme=blueberry)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s3rius&layout=compact&theme=blueberry)
 
 
 <div align="center"> 
